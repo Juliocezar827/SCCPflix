@@ -1,0 +1,9 @@
+body{
+    background-color: cyan;
+    color: gold;
+}
+section{
+    background-color: crimson;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
